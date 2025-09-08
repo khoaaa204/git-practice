@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là <Nguyễn Văn Khoa>, MSSV <224412>.
+Đây là README từ nhánh main.
