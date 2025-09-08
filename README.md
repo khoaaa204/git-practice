@@ -1,2 +1,2 @@
-# git-practice
-Nguyễn Văn Khoa - 224412 
+# Git Practice
+Giới thiệu: Tôi là <Nguyễn Văn Khoa>, MSSV <224412>.
